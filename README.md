@@ -7,6 +7,9 @@ Developer
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [mercier\_1999@hotmail.com](mailto:mercier_1999@hotmail.com)
 
+<a href="https://www.github.com/Sirichai99" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Sirichai99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 
