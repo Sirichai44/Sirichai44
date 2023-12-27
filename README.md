@@ -46,6 +46,9 @@
 <a href="https://gitlab.com/Sirichai99" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.github.com/Sirichai99" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Sirichai99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
   
 
 <br/>  
