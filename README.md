@@ -1,4 +1,4 @@
-### <div align="left">Hi 👋 I'm Sirichai, a software developer 👨‍💻 working since 2023 🚀</div>  
+### Hi 👋 I'm Sirichai, a software developer 👨‍💻 working since 2023 🚀
   
 
 - 🖥️  See my portfolio at [Portfolio](http://react-my-portfolio-project.netlify.app/)  
@@ -35,9 +35,6 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>  
-
-<br/>  
-
 
 ## Connect with me  
 <a href="https://linkedin.com/in/sirichaigino" target="_blank">
