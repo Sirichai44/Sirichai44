@@ -1,4 +1,4 @@
-### Hi 👋 I'm Sirichai, a software developer 👨‍💻 working since 2023 🚀
+### Hi 👋 I'm Sirichai, a software developer 👨‍💻 working since aug 2023 🚀
   
 
 - 🖥️  See my portfolio at [Portfolio](http://react-my-portfolio-project.netlify.app/)  
