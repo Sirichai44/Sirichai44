@@ -2,6 +2,7 @@
   
 
 - 🖥️  See my portfolio at [Portfolio](https://sirichai-app.vercel.app/) 
+- 🖥️  See my leetcode at [Leetcode](https://leetcode.com/u/Sirichai99/) 
   
 
 - 🔭 I’m currently working in Thailand  
