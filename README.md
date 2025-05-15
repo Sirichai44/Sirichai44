@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Sirichai, a software developer 👨‍💻 working since aug 2023 🚀
   
 
-- 🖥️  See my portfolio at [Portfolio](https://sirichai-app.vercel.app/) 
 - 🖥️  See my leetcode at [Leetcode](https://leetcode.com/u/Sirichai99/) 
   
 
